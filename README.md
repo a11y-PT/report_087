@@ -1,5 +1,5 @@
 ---
-website: "Município de Arganil"          # Entre as aspas escreve o nome do website
+website: "Portal Autárquico do Município de Arganil"          # Entre as aspas escreve o nome do website
 date: "31/12/1999"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
 uri: "https://www.cm-arganil.pt"   # Entre as aspas escreve o domínio do website
 a11y_statement: "https://www.cm-arganil.pt/acessibilidade/" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
